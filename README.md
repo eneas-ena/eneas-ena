@@ -59,17 +59,12 @@ Todos os apps abaixo funcionam direto no navegador e podem ser instalados na tel
 | [Jogo da Memória](https://eneas-ena.github.io/memoria/) | Três fases, quinze jogos |
 | [TESSERA](https://eneas-ena.github.io/tessera/) | Quebra-cabeça com imagens do app ou fotos próprias |
 
-## 🗂️ Produtividade e ferramentas
+## 🗂️ Ferramentas
 
 | App | Para que serve |
 |---|---|
-| [VidaPlena](https://eneas-ena.github.io/vida_plena/) | Painel de produtividade e ministério |
-| [UNI](https://eneas-ena.github.io/UNI/) | Agenda, tarefas e notas |
-| [SCRIBA](https://eneas-ena.github.io/scriba/) | Grava, transcreve e resume reuniões, aulas e ideias de pregação |
 | [Próprio Punho](https://eneas-ena.github.io/proprio-punho/) | Detecta sinais de escrita de IA e humaniza o texto |
 | [Apógrafo](https://eneas-ena.github.io/apografo/) | Escaneia documentos e transforma em Word e PDF |
-| [Minhas Despesas](https://eneas-ena.github.io/despesas/) | Controle de gastos e cartões |
-| [Regra do 1%](https://eneas-ena.github.io/regra-1/) | Evolução diária de hábitos |
 
 ## 🎓 Estudos, curso e outros projetos
 
