@@ -40,7 +40,8 @@ Todos os apps abaixo funcionam direto no navegador e podem ser instalados na tel
 | [RECEBER](https://eneas-ena.github.io/receber/) | Acolhimento de visitantes e acompanhamento de decisões |
 | [Devocional Bíblico](https://eneas-ena.github.io/devocional-vidas/) | Devocional diário da igreja |
 | [Rede de Crianças](https://eneas-ena.github.io/curriculo/) | Material e trilha de formação do Departamento Infantil |
-| [Mentor](https://igreja-vidas.github.io/mentor-app/) | Programa educacional MENTOR |
+| [Mentor](https://igreja-vidas.github.io/mentor-app/) | Aplicativo do Curso Teológico da Igreja Vidas - Mentor |
+| [Mentor](https://igreja-vidas.github.io/mentor-curriculo/)) | Aplicativo que gera o material do Curso Teológico da Igreja Vidas - Mentor |
 | [IA no Ministério Pastoral](https://eneas-ena.github.io/IA_ministerio_pastoral/) | Curso sobre o uso de IA no trabalho pastoral |
 | [Conselho do Dia](https://github.com/eneas-ena/conselho-do-dia) | Publica todo dia no Instagram um versículo de Provérbios |
 
